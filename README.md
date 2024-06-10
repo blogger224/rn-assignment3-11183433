@@ -74,8 +74,8 @@ rn-assignment3-11183433/
 
 ## Screenshots
 
-[!screenshot1](assets/eben.jpg)  
-[!screenshot2](assets/blogger.jpg)
+![screenshot1](assets/eben.jpg)  
+![screenshot2](assets/blogger.jpg)
 
 ## Usage
 
